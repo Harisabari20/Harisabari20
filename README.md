@@ -65,14 +65,9 @@ Data Structures, Object-Oriented Programming, DBMS, Operating Systems
 
 ## Contact
 
-📧 **Email:**  
-dharisabari@gmail.com
-
-🔗 **GitHub:**  
-https://github.com/Harisabari20
-
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/hari-sabari/
+📧 dharisabari@gmail.com
+🔗 https://github.com/Harisabari20
+🔗 https://www.linkedin.com/in/hari-sabari/
 
 ---
 
