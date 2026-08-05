@@ -28,8 +28,7 @@ A real-time campus communication platform that enables students to check faculty
 - Real-time location & next available time
 - Improved campus communication & productivity
 
-🔗 **GitHub:**  
-https://github.com/Harisabari20/TimeToMeet
+🔗 https://github.com/Harisabari20/TimeToMeet
 
 ---
 
@@ -42,8 +41,7 @@ A real-time AI-powered cricket analytics platform that predicts player pressure 
 - Interactive analytics dashboard
 - Data-driven coaching insights
 
-🔗 **GitHub:**  
-https://github.com/Harisabari20/Cricket_pressure_Predictor
+🔗  https://github.com/Harisabari20/Cricket_pressure_Predictor
 
 ---
 
