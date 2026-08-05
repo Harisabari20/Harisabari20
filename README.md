@@ -63,10 +63,10 @@ Data Structures, Object-Oriented Programming, DBMS, Operating Systems
 
 ## Contact
 
-📧 dharisabari@gmail.com
-🔗 https://github.com/Harisabari20
+📧 dharisabari@gmail.com  
+🔗 https://github.com/Harisabari20  
 🔗 https://www.linkedin.com/in/hari-sabari/
 
 ---
 
-> *I enjoy turning complex workflows into simple, intelligent software solutions.*
+> ***I enjoy turning complex workflows into simple, intelligent software solutions.***
