@@ -1,80 +1,79 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harisabari20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+# Hari Sabari D
 
-###
+**Software Engineer • AI Automation Engineer • Data Analytics Enthusiast**  
+**B.E. – Computer Science and Design (2023–2027)**
 
-<div align="left">
-</div>
+---
 
-###
+## About
 
-<h4 align="left">welcome to my github profile ! this is where you can find my projects and contributions.</h4>
+I build **intelligent software applications and AI-powered automation solutions** with a strong focus on:
 
-###
+- Software Engineering
+- Agentic AI & Process Automation
+- Clean, Maintainable Code
+- Data-Driven Decision Making
 
-<h4 align="left">🚀 Technologies I work with</h4>
+I enjoy building applications that automate real-world business workflows, improve productivity, and transform data into actionable insights through scalable, reliable, and practical software solutions.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+## Active Projects
 
-###
+### 🔹 TimeToMeet
 
-<h4 align="left">👉 How to Reach Me!!</h4>
+A real-time campus communication platform that enables students to check faculty availability before visiting, improving communication and reducing unnecessary waiting time.
 
-###
+- Live professor availability status
+- Real-time location & next available time
+- Improved campus communication & productivity
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/hari-sabari-586049282/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="35" alt="instagram logo"  />
-  </a>
-</div>
+🔗 **GitHub:**  
+https://github.com/Harisabari20/TimeToMeet
 
-###
+---
 
-<h4 align="left">📊 Design & Development Tools</h4>
+### 🔹 Intelligent Cricket Match Pressure Prediction
 
-###
+A real-time AI-powered cricket analytics platform that predicts player pressure levels using machine learning and match context, helping coaches and analysts make strategic decisions.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
+- Real-time pressure prediction
+- AI-based match situation analysis
+- Interactive analytics dashboard
+- Data-driven coaching insights
 
-###
+🔗 **GitHub:**  
+https://github.com/Harisabari20/Cricket_pressure_Predictor
 
-<h6 align="left">I am a creative and passionate web developer and designer, with a strong background in UI/UX design, front-end development, and web application architecture. My expertise lies in crafting user-friendly and visually engaging websites and applications using technologies like HTML, CSS, JavaScript, and React, paired with intuitive designs developed through tools like Figma.</h6>
+---
 
-###
+## Core Skills
 
-<div align="left">
-</div>
+**Languages:**  
+Java, SQL, C++
 
-###
+**AI & Automation:**  
+UiPath Agentic AI, UiPath Maestro, RPA
+
+**Data & Analytics:**  
+Power BI, Tableau, Excel
+
+**Foundations:**  
+Data Structures, Object-Oriented Programming, DBMS, Operating Systems
+
+---
+
+## Contact
+
+📧 **Email:**  
+dharisabari@gmail.com
+
+🔗 **GitHub:**  
+https://github.com/Harisabari20
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/hari-sabari/
+
+---
+
+> *I enjoy turning complex workflows into simple, intelligent software solutions.*
