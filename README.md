@@ -1,20 +1,20 @@
 # Hari Sabari D
 
-**Software Engineer • AI Automation Engineer • Data Analytics Enthusiast**  
+**Aspiring Software Engineer | Application Development | Agentic AI & Automation**  
 **B.E. – Computer Science and Design (2023–2027)**
 
 ---
 
 ## About
 
-I build **intelligent software applications and AI-powered automation solutions** with a strong focus on:
+I build **software applications and intelligent automation solutions** with a strong focus on:
 
-- Software Engineering
+- Software Development & Application Building
 - Agentic AI & Process Automation
+- Backend Development & Database Integration
 - Clean, Maintainable Code
-- Data-Driven Decision Making
 
-I enjoy building applications that automate real-world business workflows, improve productivity, and transform data into actionable insights through scalable, reliable, and practical software solutions.
+I enjoy developing practical applications, automating real-world workflows, and exploring AI-driven solutions that improve efficiency and solve meaningful problems through reliable, maintainable, and user-focused software.
 
 ---
 
@@ -27,37 +27,48 @@ A real-time campus communication platform that enables students to check faculty
 - Live professor availability status
 - Real-time location & next available time
 - Improved campus communication & productivity
-
-🔗 https://github.com/Harisabari20/TimeToMeet
-
+  
 ---
 
-### 🔹 Intelligent Cricket Match Pressure Prediction
+### 🔹 Student Digital Footprint Analyzer
 
-A real-time AI-powered cricket analytics platform that predicts player pressure levels using machine learning and match context, helping coaches and analysts make strategic decisions.
+An AI-powered multi-agent workflow that analyzes professional profiles and identifies opportunities for career improvement.
 
-- Real-time pressure prediction
-- AI-based match situation analysis
-- Interactive analytics dashboard
-- Data-driven coaching insights
-
-🔗  https://github.com/Harisabari20/Cricket_pressure_Predictor
+- Automated resume and LinkedIn profile data comparison.
+- Identified skill gaps and generated personalized career recommendations
+- Implemented data extraction, validation, and comparison workflows.
 
 ---
 
 ## Core Skills
 
-**Languages:**  
-Java, SQL, C++
+**Programming Languages:**  
+Java
 
-**AI & Automation:**  
-UiPath Agentic AI, UiPath Maestro, RPA
+**Application Development:**  
+React Native, Node.js, Express.js
+
+**Database & APIs:**  
+MySQL,Rest APIs
+
+**Automation:**  
+UiPath , Agentic AI
 
 **Data & Analytics:**  
 Power BI, Tableau, Excel
 
-**Foundations:**  
-Data Structures, Object-Oriented Programming, DBMS, Operating Systems
+**CS Fundamentals:**  
+Data Structures & Algorithms, OOP, DBMS
+
+---
+
+## Achievements
+
+🏆 Winner — Flex India Hackathon 2026
+Developed an AI-assisted Warehouse Management System.
+
+🎯 Top 45 — Smart India Hackathon Internal Round
+Developed a GIS-based Digital Public Infrastructure solution for Land Governance.
 
 ---
 
