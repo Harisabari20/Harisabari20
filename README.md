@@ -25,8 +25,8 @@ I enjoy developing practical applications, automating real-world workflows, and 
 A real-time campus communication platform that enables students to check faculty availability before visiting, improving communication and reducing unnecessary waiting time.
 
 - Live professor availability status
-- Real-time location & next available time
-- Improved campus communication & productivity
+- Real-time location and next available time
+- Improved campus communication and productivity
   
 ---
 
@@ -34,41 +34,30 @@ A real-time campus communication platform that enables students to check faculty
 
 An AI-powered multi-agent workflow that analyzes professional profiles and identifies opportunities for career improvement.
 
-- Automated resume and LinkedIn profile data comparison.
+- Automated resume and LinkedIn profile data comparison
 - Identified skill gaps and generated personalized career recommendations
-- Implemented data extraction, validation, and comparison workflows.
+- Implemented data extraction, validation, and comparison workflows
 
 ---
 
 ## Core Skills
 
-**Programming Languages:**  
-Java
-
-**Application Development:**  
-React Native, Node.js, Express.js
-
-**Database & APIs:**  
-MySQL,Rest APIs
-
-**Automation:**  
-UiPath , Agentic AI
-
-**Data & Analytics:**  
-Power BI, Tableau, Excel
-
-**CS Fundamentals:**  
-Data Structures & Algorithms, OOP, DBMS
+- **Programming Languages:** Java
+- **Application Development:** React Native, Node.js, Express.js
+- **Database & APIs:** MySQL, REST APIs
+- **AI & Automation:** UiPath, Agentic AI
+- **Data & Analytics:** Power BI, Tableau, Excel
+- **CS Fundamentals:** Data Structures & Algorithms, OOP, DBMS
 
 ---
 
 ## Achievements
 
-🏆 Winner — Flex India Hackathon 2026
-Developed an AI-assisted Warehouse Management System.
+- 🏆 **Winner — Flex India Hackathon 2026**
+  - Developed an AI-assisted Warehouse Management System.
 
-🎯 Top 45 — Smart India Hackathon Internal Round
-Developed a GIS-based Digital Public Infrastructure solution for Land Governance.
+- 🎯 **Top 45 — Smart India Hackathon Internal Round**
+  - Developed a GIS-based Digital Public Infrastructure solution for Land Governance.
 
 ---
 
